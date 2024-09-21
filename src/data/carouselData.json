@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "src": "https://fastly.picsum.photos/id/347/5000/3334.jpg?hmac=y6ISvladvZWX6orqcoTW8rQ8XI0UPsptHbLbHooT57Q",
+      "alt": "image"
+    },
+    {
+      "src": "https://fastly.picsum.photos/id/62/2000/1333.jpg?hmac=PbFIn8k0AndjiUwpOJcfHz2h-wPCQi_vJRTJZPdr6kQ",
+      "alt": "image-dos"
+    },
+    {
+      "src": "https://fastly.picsum.photos/id/340/4752/3168.jpg?hmac=OaV_h0fZcZyYBh0z61QaK5m06eSCO9CDWjpaGA9U6xU",
+      "alt": "image-tres"
+    }
+  ]
+}
